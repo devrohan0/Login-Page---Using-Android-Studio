@@ -94,6 +94,14 @@
                 android:src="@drawable/facebook"
                 android:id="@+id/facebook_btn"/>
 
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:src="@drawable/twitter"
+                android:id="@+id/twitter.png"/>
+
         </LinearLayout>
 
 
